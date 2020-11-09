@@ -1,3 +1,6 @@
 {
-    "typescript.tsdk": "/Users/yosuke-ishikawa/typescript-for-javascript-developers/node_modules/typescript/lib"
+    "typescript.tsdk": "/Users/yosuke-ishikawa/typescript-for-javascript-developers/node_modules/typescript/lib",
+    "editor.formatOnSave": true,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
 }
